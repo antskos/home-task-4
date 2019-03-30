@@ -1,0 +1,7 @@
+C:\Users\Антон\Documents\Visual Studio 2017\geekbrains\DZLesson4\DZLesson4\bin\Debug\DZLesson4.exe.config
+C:\Users\Антон\Documents\Visual Studio 2017\geekbrains\DZLesson4\DZLesson4\bin\Debug\DZLesson4.exe
+C:\Users\Антон\Documents\Visual Studio 2017\geekbrains\DZLesson4\DZLesson4\bin\Debug\DZLesson4.pdb
+C:\Users\Антон\Documents\Visual Studio 2017\geekbrains\DZLesson4\DZLesson4\obj\Debug\DZLesson4ex1.csprojResolveAssemblyReference.cache
+C:\Users\Антон\Documents\Visual Studio 2017\geekbrains\DZLesson4\DZLesson4\obj\Debug\DZLesson4ex1.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Documents\Visual Studio 2017\geekbrains\DZLesson4\DZLesson4\obj\Debug\DZLesson4.exe
+C:\Users\Антон\Documents\Visual Studio 2017\geekbrains\DZLesson4\DZLesson4\obj\Debug\DZLesson4.pdb
